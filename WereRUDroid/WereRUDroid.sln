@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WereRUDroid", "WereRUDroid.csproj", "{823B216F-3BDC-43DD-8B1A-C7FA61C3E0A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WerRU_BLL", "..\WerRU_BLL\WerRU_BLL.csproj", "{5759A8FC-A0E2-4756-BBF8-FBDCED67FA40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{823B216F-3BDC-43DD-8B1A-C7FA61C3E0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{823B216F-3BDC-43DD-8B1A-C7FA61C3E0A9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{823B216F-3BDC-43DD-8B1A-C7FA61C3E0A9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5759A8FC-A0E2-4756-BBF8-FBDCED67FA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5759A8FC-A0E2-4756-BBF8-FBDCED67FA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5759A8FC-A0E2-4756-BBF8-FBDCED67FA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5759A8FC-A0E2-4756-BBF8-FBDCED67FA40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
